@@ -1,0 +1,28 @@
+
+
+.App {
+    margin: 10px auto 30px auto;
+    width:900px;
+
+    border: 2px solid black;
+    border-radius: 5px;
+
+    padding: 25px;
+}
+
+.test {
+    margin: 10px auto 10px auto;
+    width: auto;
+}
+
+.btn {
+    margin: 10px auto 10px auto;
+
+    display: block;
+}
+
+.btn-remove {
+    margin: 10px auto 10px auto;
+
+
+}
